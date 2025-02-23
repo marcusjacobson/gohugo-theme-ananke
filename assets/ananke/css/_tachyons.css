@@ -2646,10 +2646,10 @@ code {
   font-size: 0.75rem;
 }
 .measure {
-  max-width: 30em;
+  max-width: 75m;
 }
 .measure-wide {
-  max-width: 34em;
+  max-width: 75em;
 }
 .measure-narrow {
   max-width: 20em;
@@ -7004,5 +7004,8 @@ code {
   }
   .v-btm-l {
     vertical-align: bottom;
+  }
+  .text-left {
+    text-align: left;
   }
 }
